@@ -1,6 +1,7 @@
 import React from 'react';
 import Footer from '../../Footer/Footer';
 import Appointmentbanner from '../Appointmentbanner/Appointmentbanner';
+import Blogs from '../Blogs/Blogs';
 import Exceptionbanner from '../Exceptionbanner/Exceptionbanner';
 import Header from '../Header/Header';
 import Services from '../Services/Services';
@@ -14,6 +15,7 @@ const Home = () => {
             <Exceptionbanner></Exceptionbanner>
             <Appointmentbanner></Appointmentbanner>
             <Testimonials></Testimonials>
+            <Blogs></Blogs>
             <Footer></Footer>
         </div>
     );
