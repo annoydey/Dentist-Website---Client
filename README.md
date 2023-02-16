@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App]
-
 Doctors Portal – Appointment Booking Website
 
 Features   
