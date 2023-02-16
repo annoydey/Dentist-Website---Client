@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App]
 
-[Doctors Portal – Appointment Booking Website](https://github.com/annoydey/Dentist-Website---Client)  
+Doctors Portal – Appointment Booking Website
 
 Features   
 You can book an appointment with doctors.
